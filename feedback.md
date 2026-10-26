@@ -1,3 +1,3 @@
-Feedback - Aula 02 e Aula 03
+# Feedback - Aula 02
 
-Nicolas, seu repositório só tem o commit inicial, de 21/09, não teve entrega nem da aula 2 nem da aula 3. Nota 0,00 nas duas. Precisa recuperar.
+Nicolas, seu repositório segue parado desde que foi criado, sem nenhuma rota escrita. A aula 2 pede o CRUD completo funcionando. As notas fecham sexta-feira, corre pra entregar até lá ou a nota dessa etapa fica zerada.
