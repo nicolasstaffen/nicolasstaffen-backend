@@ -1,3 +1,5 @@
-# Feedback - Aula 02
+Nicolas, não existe nenhum commit seu em nenhuma das três aulas, o repositório continua exatamente como foi criado. As três ficam zeradas.
 
-Nicolas, seu repositório segue parado desde que foi criado, sem nenhuma rota escrita. A aula 2 pede o CRUD completo funcionando. As notas fecham sexta-feira, corre pra entregar até lá ou a nota dessa etapa fica zerada.
+A recuperação do primeiro momento está na lista de revisão. Estuda a lista de revisão que você recupera essa nota.
+
+Os outros 2 pontos desse primeiro momento são a arguição, na próxima aula, no laboratório.
